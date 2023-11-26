@@ -1,0 +1,36 @@
+Problems that we face on daily basis and their solutions
+
+1,Shortage Of Time
+App-Alarm system
+Sol,This will help us doing things on time .
+
+2,Connectivity Issues
+App-Better Troubleshooting system and stronger wifi
+Sol,This will help us join classes on time and complete tasks faster .
+
+3,To Do List
+App-A to do app
+Sol,This app will remind us what to do and when
+
+4,A Health checkup App
+Sol,This will make health checkups for senior citizens easier as they would not have to travel to the hospital and get checkups at home.
+
+5,Emptiness and Boredom
+App-Happy App
+Sol, This app will make us happy all the time by making us feel good about ourselves and keep sadness away .It will crack some jokes and tell us fun facts help us pass our time .
+
+6,Can't sleep
+App - Sleeping app 
+Sol, This app will play claming sounds that help to put you to sleep . This will also cure Insomia .
+
+7,Having more friends
+App-Friendly videochat
+Sol,This app will help you have more friends by videochatting random people .
+
+8,Relationship, Marriage, and Family problems 
+App - Family App
+Sol,This app solves Relationship, Marriage, and Family problems by we asking questions and they giving us solutions and their point of views .
+
+9,Completing Homework
+App-H.W. Robot
+Sol,This robot will help us complete our homework .
